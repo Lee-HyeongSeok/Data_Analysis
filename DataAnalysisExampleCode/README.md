@@ -9,7 +9,7 @@
 - 데이터 분석 알고리즘에 사용할 데이터 컨테이너 역할 수행
 - 저수준 언어로 작성한 라이브러리는 Numpy 배열에 저장된 데이터를 복사하지 않고 바로 사용 가능
 
-
+<br>
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-
+<br>
 
 ### **⚙ Pandas 란**
 
@@ -38,7 +38,7 @@
   - 데이터 취합
   - 데이터 부분 집합 선택
 
-
+<br>
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-
+<br>
 
 ### **⚙ Scikit-learn**
 
@@ -63,10 +63,10 @@
   - 모델 선택 : 격자탐색, 교차검증, 행렬
   - 전처리 : 특징 추출, 정규화
 
-
+<br>
 
 ***
 
 ## **📌 Python Reference**
 
-- [Data Analysis Python 문법]()
+- [Data Analysis Python 문법](https://github.com/Lee-HyeongSeok/Data_Analysis/blob/master/DataAnalysisExampleCode/Python%EB%AC%B8%EB%B2%95.md)
