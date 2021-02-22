@@ -14,6 +14,10 @@
 
 ### **5. 흐름 제어**
 
+### **6. 예약어**
+
+
+
 
 
 <br>
@@ -221,3 +225,30 @@ datetime.strptime('20210215', '%y%m%d')
     - **true-expr** : condition이 True일 경우 동작
     - **false-expr** : condition이 False일 경우 동작
     - ex) 'Non-negative' if x >= 0 else 'Negative'
+
+<br>
+
+### **⚙ [6] 예약어**
+
+- **in** 예약어
+
+  - 리스트에 어떤 값이 존재하는지 검사
+
+    ```python
+    a_list = (1, 3, 5, 7)
+    3 in a_list
+    # True 
+    ```
+
+- **not** 예약어
+
+  - in 예약어를 반대 의미로 사용
+
+  - 리스트에 어떤 값이 존재하지 않는지 검사
+
+    ```python
+    3 not in a_list
+    # False(3이 a_list에 존재하기 때문에 False 출력)
+    ```
+
+    
