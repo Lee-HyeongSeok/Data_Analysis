@@ -72,5 +72,6 @@
 ## **📌 Python Reference**
 
 - [Data Analysis Python 문법](https://github.com/Lee-HyeongSeok/Data_Analysis/blob/master/DataAnalysisExampleCode/Python%EB%AC%B8%EB%B2%95.md)
+- [Data Analysis Python 자료형](https://github.com/Lee-HyeongSeok/Data_Analysis/blob/master/DataAnalysisExampleCode/Python%EC%9E%90%EB%A3%8C%ED%98%95.md)
 
 - [파이썬 라이브러리를 활용한 데이터 분석 2판]
